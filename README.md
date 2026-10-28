@@ -24,8 +24,8 @@ I enjoy building native iOS applications, integrating REST APIs and Firebase ser
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [Parth Kanpara](https://linkedin.com/in/parthkanpara)
-- **Portfolio:** [Visit my portfolio](https://portfolio-k5a4zer6f-parth-portfolio1.vercel.app/)
+- **LinkedIn:** [Parth Kanpara](https://www.linkedin.com/in/parth-kanpara-695599184/)
+- **Portfolio:** [Visit my portfolio](https://portfolio-bay-xi-h0rykhhwxh.vercel.app/)
 - **GitHub:** [@parthkanpara](https://github.com/parthkanpara)
 - **Email:** parth.iosdeveloper@gmail.com
 
